@@ -25,15 +25,15 @@ Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru). 
 
 ## Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
-* SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
-
-* Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
-
-* aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
+* Microsoft 365 Bangalore | [Facebook](https://www.facebook.com/groups/m365blr/ "Facebook") | [Twitter](https://twitter.com/m365blr "Twitter")
 
 * Microsoft Azure User Group Bangalore | [Meetup](https://www.meetup.com/Microsoft-Azure-Bangalore/  "Meetup")
 
 * Bangalore .NET User Group | [Facebook](https://www.facebook.com/groups/BDotNet/  "Facebook")
+
+* Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
+
+* aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
 
 * SQL Bangalore | [Facebook](https://www.facebook.com/groups/SQLBangalore/   "Facebook")
 
