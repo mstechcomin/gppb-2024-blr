@@ -1,8 +1,6 @@
 # Global Power Platform Bootcamp 2024 (Bengaluru)
 ### 02-Mar-2024 (Virtual Event)
 
-(This Page is under construction)
-
 Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru).  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@m365blr](https://twitter.com/m365blr "Microsoft 365 Bangalore") for any further inputs (Hash tag #M365BLR).
 
 ## Session Presentations
