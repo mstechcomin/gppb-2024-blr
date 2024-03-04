@@ -7,12 +7,12 @@ Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru). 
 
 | Sl# | Speaker Name | Session Title | Presentation / Links | Recording Link |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Nanddeep Nachan / Smita Nachan | Keynote Speech | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
-| 2 | Sujithkumar P Sukumaran | Grow your SharePoint development platform with SharePoint Framework | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
-| 3 | Shrushti Shah | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
-| 4 | Senthil Kumar Sugumaran | Provisioning Modern Site using Site Scripts and Site Designs | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
-| 5 | Siddharth Vaghasia | Make $$$ with Azure Cognitive Services and Photography | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
-| 6 | Aroh Shukla | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
+| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
+| 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
+| 3 | Shrushti Shah | Automate internal approval processes using AI driven | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
+| 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
+| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
+| 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
