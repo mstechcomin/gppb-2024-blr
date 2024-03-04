@@ -3,18 +3,27 @@
 
 Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru).  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@m365blr](https://twitter.com/m365blr "Microsoft 365 Bangalore") for any further inputs (Hash tag #M365BLR).
 
+### [Global Power Platform Bootcamp Website](https://www.powerplatformbootcamp.com/)
+
+## Organizers
+<img src="./images/GPPB-2024-BLR-Organizers.png" alt="Organizers"/>
+
+## Agenda
+<img src="./images/GPPB-2024-BLR-Agenda.jpeg" alt="Agenda"/>
+
 ## Session Presentations
 
 | Sl# | Speaker Name | Session Title | Presentation / Links | Recording Link |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | <a href="https://www.slideshare.net/secret/ygwSvOwrixsRwn" target="_blank" title="Nanddeep's Personal SlideShare">SlideShare</a>  |
-| 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
-| 3 | Shrushti Shah | Automate internal approval processes using AI driven | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
-| 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
-| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
-| 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
+| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | <a href="https://www.slideshare.net/secret/ygwSvOwrixsRwn" target="_blank" title="Nanddeep's Personal SlideShare">SlideShare</a>  | [YouTube](http://youtube.com/ "") |
+| 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [Presentation](./slide-decks/GPPB-2024-BLR-Transforming_Business_with_Co-Pilot_Plugin_Automations.pdf "") |  [YouTube](http://youtube.com/ "") |
+| 3 | Shrushti Shah | Automate internal approval processes using AI driven | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "") |
+| 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [Presentation](./slide-decks/GPPB-2024-Improve_Process_Efficiency_with_Power_Automate_Process.pdf "") |  [YouTube](http://youtube.com/ "")
+| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "")
+| 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [Presentation](./slide-decks/GPPB-2024-BLR-5_Top_AI_innovations_in_Power_Platform.pdf "") |  [YouTube](http://youtube.com/ "")
 
-## SharePoint/Office365/Microsoft User Groups in Bangalore
+
+## Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
 * SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
 
