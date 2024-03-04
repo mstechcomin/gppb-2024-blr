@@ -7,7 +7,7 @@ Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru). 
 
 | Sl# | Speaker Name | Session Title | Presentation / Links | Recording Link |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | [SlideShare](https://www.slideshare.net/secret/ygwSvOwrixsRwn "Nanddeep's Personal SlideShare")  |
+| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | <a href="https://www.slideshare.net/secret/ygwSvOwrixsRwn" target="_blank" title=""Nanddeep's Personal SlideShare">SlideShare</a>  |
 | 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
 | 3 | Shrushti Shah | Automate internal approval processes using AI driven | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
 | 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
