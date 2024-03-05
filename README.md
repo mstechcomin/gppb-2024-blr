@@ -15,12 +15,12 @@ Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru). 
 
 | Sl# | Speaker Name | Session Title | Presentation / Links | Recording Link |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | <a href="https://www.slideshare.net/secret/ygwSvOwrixsRwn" target="_blank" title="Nanddeep's Personal SlideShare">SlideShare</a>  | [YouTube](http://youtube.com/ "") |
-| 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [Presentation](./slide-decks/GPPB-2024-BLR-Transforming_Business_with_Co-Pilot_Plugin_Automations.pdf "") |  [YouTube](http://youtube.com/ "") |
-| 3 | Shrushti Shah | Automate internal approval processes using AI driven | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "") |
-| 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [Presentation](./slide-decks/GPPB-2024-Improve_Process_Efficiency_with_Power_Automate_Process.pdf "") |  [YouTube](http://youtube.com/ "")
-| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "")
-| 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [Presentation](./slide-decks/GPPB-2024-BLR-5_Top_AI_innovations_in_Power_Platform.pdf "") |  [YouTube](http://youtube.com/ "")
+| 1 | Nanddeep Nachan / Smita Nachan | Step into the Future: Using AI and Power Platform to boost the productivity | <a href="https://www.slideshare.net/secret/ygwSvOwrixsRwn" target="_blank" title="Nanddeep's Personal SlideShare">SlideShare</a>  | [YouTube](https://www.youtube.com/watch?v=pvmEEDGZMwI "") |
+| 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [Presentation](./slide-decks/GPPB-2024-BLR-Transforming_Business_with_Co-Pilot_Plugin_Automations.pdf "") |  [YouTube](https://www.youtube.com/watch?v=WUrxM1GY8rY "") |
+| 3 | Shrushti Shah | Automate internal approval processes using AI driven | [Presentation](http://bing.com "") |  [YouTube](https://www.youtube.com/watch?v=bT8R8cUWgdo "") |
+| 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [Presentation](./slide-decks/GPPB-2024-Improve_Process_Efficiency_with_Power_Automate_Process.pdf "") |  [YouTube](https://www.youtube.com/watch?v=i-i1aWN3mSc "")
+| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [Presentation](http://bing.com "") |  [YouTube](https://www.youtube.com/watch?v=l_nXkQG6AcY "")
+| 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [Presentation](./slide-decks/GPPB-2024-BLR-5_Top_AI_innovations_in_Power_Platform.pdf "") |  [YouTube](https://www.youtube.com/watch?v=s4LBeW2Mv5g "")
 
 
 ## Microsoft User Groups in Bangalore
