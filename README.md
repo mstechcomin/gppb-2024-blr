@@ -19,7 +19,7 @@ Thanks to all the attendees of Global Power Platform Bootcamp 2024 (Bengaluru). 
 | 2 | Sujithkumar P Sukumaran | Transforming Business with Co-Pilot Plugin Automations  | [Presentation](./slide-decks/GPPB-2024-BLR-Transforming_Business_with_Co-Pilot_Plugin_Automations.pdf "") |  [YouTube](http://youtube.com/ "") |
 | 3 | Shrushti Shah | Automate internal approval processes using AI driven | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "") |
 | 4 | Senthil Kumar Sugumaran | Improve Process Efficiency with Power Automate Process | [Presentation](./slide-decks/GPPB-2024-Improve_Process_Efficiency_with_Power_Automate_Process.pdf "") |  [YouTube](http://youtube.com/ "")
-| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [Presentation](http://bing.com "") |  [YouTube](http://youtube.com/ "")
+| 5 | Siddharth Vaghasia | Creating a Bot with Microsoft Copilot Studio Using Your Data | [Presentation](./slide-decks/GPPB-2024-BLR-Creating_a_Bot_with_Microsoft_Copilot_Studio_Using_Your_Data.pdf "") |  [YouTube](http://youtube.com/ "")
 | 6 | Aroh Shukla | 5 Top AI innovations in Power Platform | [Presentation](./slide-decks/GPPB-2024-BLR-5_Top_AI_innovations_in_Power_Platform.pdf "") |  [YouTube](http://youtube.com/ "")
 
 
